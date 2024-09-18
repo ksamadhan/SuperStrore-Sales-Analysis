@@ -19,11 +19,16 @@ Interactivity: Offers interactive elements like filters and drill-down capabilit
 
 Technologies Used:
 Power BI: For data visualization and creating an interactive dashboard.
+
 Data Modeling: Establishing relationships and measures to facilitate complex data analysis.
+
 DAX: Employed for advanced calculations and custom metrics.
+
 How to Use:
 Clone this repository to your local environment.
+
 Open the Power BI (.pbix) file to explore the dashboard and gain insights.
+
 Utilize the interactive features to filter and customize the data analysis to suit specific queries.
 
 
